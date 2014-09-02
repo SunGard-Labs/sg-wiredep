@@ -1,16 +1,16 @@
 {
-  "name": "wiredep",
+  "name": "sg-wiredep",
   "version": "1.8.5",
   "main": "./wiredep.js",
   "bin": {
-    "wiredep": "./wiredep-cli.js"
+    "sgwiredep": "./wiredep-cli.js"
   },
   "description": "Wire Bower dependencies to your source code.",
-  "repository": "taptapship/wiredep",
-  "author": {
-    "name": "Stephen Sawchuk",
-    "email": "sawchuk@gmail.com"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SunGard-Labs/sg-wiredep.git"
   },
+  "author": "SunGard",
   "keywords": [
     "bower",
     "package",
