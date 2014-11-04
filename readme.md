@@ -34,7 +34,6 @@ This is a fork of the original [wiredep](https://github.com/taptapship/wiredep) 
 ```
 
 ### Grunt plugin
-
 We also support a [fork of the original grunt-wiredep plugin](https://github.com/SunGard-Labs/grunt-wiredep) that uses this fork instead.
 
 You can install it with:
@@ -44,5 +43,6 @@ npm install --save-dev https://github.com/SunGard-Labs/grunt-wiredep/archive/mas
 ```
 
 ## License
+
 Copyright (c) 2014 Stephen Sawchuk. Licensed under the MIT license.
 
